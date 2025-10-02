@@ -6836,16 +6836,16 @@
                   dark: t,
                   href:"https://ripple.com"
                 }),
-                (0, i.jsx)("a", {
-                  "data-testid": "burger__dao",
-                  className: f().accordion,
-                  title: (0, i.jsx)("h3", {
-                    className: f().cardTitle,
-                    children: "Support",
-                  }),
-                  dark: t,
-                  href:"https://ripple.com"
-                }),
+                // (0, i.jsx)("a", {
+                //   "data-testid": "burger__dao",
+                //   className: f().accordion,
+                //   title: (0, i.jsx)("h3", {
+                //     className: f().cardTitle,
+                //     children: "Support",
+                //   }),
+                //   dark: t,
+                //   href:"https://ripple.com"
+                // }),
                
               ],
             }),
@@ -6971,21 +6971,21 @@
                           }),
                         ],
                       }),
-                      (0, i.jsxs)("li", {
-                        className: n().navListItem,
-                        children: [
-                          (0, i.jsx)("a", {
-                            className: c()(
-                              n().headerLink,
-                              C && n().currentHeaderLink
-                            ),
-                            href:"https://app.rstaking.us",
-                            children: "Support",
-                            target:"_blank",
-                            rel:"noopener noreferrer",
-                          }),
-                        ],
-                      }),
+                      // (0, i.jsxs)("li", {
+                      //   className: n().navListItem,
+                      //   children: [
+                      //     (0, i.jsx)("a", {
+                      //       className: c()(
+                      //         n().headerLink,
+                      //         C && n().currentHeaderLink
+                      //       ),
+                      //       href:"https://app.rstaking.us",
+                      //       children: "Support",
+                      //       target:"_blank",
+                      //       rel:"noopener noreferrer",
+                      //     }),
+                      //   ],
+                      // }),
                       
                     ],
                   }),
